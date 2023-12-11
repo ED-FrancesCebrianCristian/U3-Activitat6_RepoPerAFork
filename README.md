@@ -63,7 +63,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 
 
 #### AlumneFila2 PC4:
-
+      ### El alumno Cristian Francés ha modificado el método para que siga su nombre. 
 
 #### AlumneFila2 PC5:
 
